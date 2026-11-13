@@ -41,9 +41,13 @@ Status
 
 
 📁 models/ يحتوي على أوزان ونماذج الذكاء الاصطناعي المدربة للتعرف البصري على الإصابات.
+
 📁 scripts/ يضم الوحدات البرمجية المسؤولة عن معالجة الإطارات (Frames) وتحليل البيانات.
+
 📁 sounds/ قاعدة بيانات الملفات الصوتية الخاصة بالتعليمات الإسعافية الفورية.
+
 📄 create_my_project.py نقطة الدخول الرئيسية (Main Entry Point) لتهيئة وتشغيل دورة حياة النظام.
+
 📄 requirements.txt قائمة الحزم والمكتبات البرمجية اللازمة لبناء بيئة التشغيل.
 🚀 دليل التثبيت والتشغيل (Installation & Setup)
 
@@ -58,7 +62,8 @@ cd Baseer-Smart-Visual-Medic
 
 python -m venv venv
 source venv/bin/activate  # على نظام Linux/Mac
-# أو: venv\Scripts\activate على نظام Windows
+
+
 
 pip install -r requirements.txt
 3️⃣ تشغيل النظام
