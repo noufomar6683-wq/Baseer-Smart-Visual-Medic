@@ -32,7 +32,7 @@ Status
 📄 requirements.txt قائمة الحزم والمكتبات البرمجية اللازمة لبناء بيئة التشغيل.
 🚀 دليل التثبيت والتشغيل (Installation & Setup)
 1️⃣ استنساخ المستودع (Clone Repository)
-git clone https://github.com
+
 cd Baseer-Smart-Visual-Medic
 2️⃣ إعداد البيئة وتثبيت المتطلبات
 يُفضل إنشاء بيئة افتراضية (Virtual Environment) ثم تثبيت المكتبات:
